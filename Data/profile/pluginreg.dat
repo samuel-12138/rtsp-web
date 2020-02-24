@@ -1,0 +1,121 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+npWebVideoKitPlugin.dll|$
+C:\Program Files (x86)\Web Components Kit\npWebVideoKitPlugin.dll|$
+3.0.6.2|$
+1506682084000|0|0|0|$
+npWebVideoKitPlugin|$
+Web Components Kit|$
+1
+0|application/webvideo-plugin-kit|npWebVideoKitPlugin|rts|$
+npWebVideoPlugin.dll|$
+C:\Program Files (x86)\Web Components\npWebVideoPlugin.dll|$
+3.0.6.46|$
+1533278434000|0|0|0|$
+npWebVideoPlugin|$
+Web Components|$
+1
+0|application/hwp-webvideo-plugin|npWebVideoPlugin|rts|$
+nptxftnWebKit.dll|$
+C:\Program Files (x86)\QQMailPlugin\nptxftnWebKit.dll|$
+1.0.0.4|$
+1365408134000|0|0|0|$
+Tencent FTN plug-in|$
+Tencent FTN plug-in|$
+1
+0|application/txftn-webkit|nptxftn||$
+npQQMailWebKit.dll|$
+C:\Program Files (x86)\QQMailPlugin\npQQMailWebKit.dll|$
+1.0.0.22|$
+1366877940000|0|0|0|$
+QQMail plugin for WebKit #1.0.0.22|$
+QQMail Plugin|$
+2
+0|application/x-tencent-qmail-webkit|QQMailPlugin for webkit||$
+1|application/x-tencent-qmail|QQMailPlugin for webkit||$
+npSSOAxCtrlForPTLogin.dll|$
+C:\Program Files (x86)\Common Files\Tencent\TXSSO\1.2.5.41\Bin\npSSOAxCtrlForPTLogin.dll|$
+1.0.1.16|$
+1575354502000|0|0|0|$
+QQ QuickLogin Helper|$
+Tencent SSO Platform|$
+1
+0|application/nptxsso|TXSSO||$
+npQzoneMusic.dll|$
+C:\Program Files (x86)\Tencent\QzoneMusic\npQzoneMusic.dll|$
+9.51.3087.226|$
+1456451578000|0|0|0|$
+QQÒôÀÖ²¥·Å¿Ø¼þ|$
+QQÒôÀÖ²¥·Å¿Ø¼þ|$
+1
+0|application/tecent-qzonemusic-plugin|This plug-in is transfers of QzoneMusic when opening Qzone in a web page with Firefox.|rts|$
+npQQPhotoDrawEx.dll|$
+C:\Program Files (x86)\Tencent\Qzone\npQQPhotoDrawEx.dll|$
+2.47.312.813|$
+1376385610000|0|0|0|$
+npQQPhotoDrawEx Module|$
+npQQPhotoDrawEx|$
+1
+0|application/tencent-qqphotodrawex2-plugin||rts|$
+npactivex.dll|$
+C:\Program Files (x86)\Common Files\Tencent\Npchrome\npactivex.dll|$
+6.0.1.1|$
+1581467296392|0|0|0|$
+Tencent QQ CPHelper plugin for Chrome|$
+Tencent QQ|$
+1
+0|application/qscall-plugin|DLL|dll|$
+npnv3dv.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll|$
+7.17.13.9827|$
+1531334002000|0|0|0|$
+NVIDIA 3D Vision plugin for Mozilla browsers|$
+NVIDIA 3D Vision|$
+3
+0|image/jps|JPEG-based stereo image|jps|$
+1|image/pns|PNG-based stereo image|pns|$
+2|image/mpo|Multi-Picture Format image|mpo|$
+npnv3dvstreaming.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dvstreaming.dll|$
+7.17.13.9827|$
+1531334004000|0|0|0|$
+NVIDIA 3D Vision Streaming plugin for Mozilla browsers|$
+NVIDIA 3D VISION|$
+1
+0|application/mozilla-3dv-streaming-plugin|npnv3dvstreaming|rts|$
+npctrl.dll|$
+C:\Program Files (x86)\Microsoft Silverlight\3.0.40818.0\npctrl.dll|$
+3.0.40818.0|$
+1250516088000|0|0|0|$
+3.0.40818.0|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2|||$
+npFoxitPhantomPDFPlugin.dll|$
+D:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\plugins\npFoxitPhantomPDFPlugin.dll|$
+2.2.7.1129|$
+1537361168000|0|0|0|$
+Foxit PhantomPDF Plug-In For Firefox and Netscape|$
+Foxit PhantomPDF Plugin for Mozilla|$
+3
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.fdf||fdf|$
+2|application/vnd.ppdf||ppdf|$
+npYunWebDetect.dll|$
+D:\Program Files\BaiduNetdisk\npYunWebDetect.dll|$
+6.8.9.1|$
+1577189894000|0|0|0|$
+YunWebDetect|$
+BaiduYunGuanjia Application|$
+1
+0|application/bd-npyunwebdetect-plugin|||$
+
+[INVALID]
+C:\Program Files (x86)\Microsoft Silverlight\3.0.40818.0\npctrlui.dll|$
+1250516088000|$
